@@ -1,4 +1,3 @@
-// Import paket-paket yang dibutuhkan
 import 'package:flutter/material.dart';
 import 'package:encrypt/encrypt.dart' as encrypt;
 import 'package:shared_preferences/shared_preferences.dart';
